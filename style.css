@@ -62,7 +62,7 @@ body{
 .home{
     height: 100vh;
     /* background: url(images/main-bg.png) no-repeat; */
-    background: url(main-bg2.png) no-repeat;
+    background: url(./ressources/main-bg2.png) no-repeat;
     /* background: url(images/portfolio_background-removebg-preview.png) no-repeat; */
     background-size: contain;
     background-position-x: 50vw;
